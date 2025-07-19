@@ -11,5 +11,6 @@ config_version=5
 [application]
 
 config/name="Ghost RPG"
+run/main_scene="uid://bl3012no147x0"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
